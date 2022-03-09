@@ -1,0 +1,4 @@
+getgenv(). Settings = {
+Fov = 150,
+Hitbox = "Head",
+FovCircle = true,
